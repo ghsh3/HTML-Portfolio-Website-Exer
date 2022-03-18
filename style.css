@@ -1,0 +1,47 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Quintessential&display=swap');
+
+
+* {
+   color:white;
+   text-align: center;
+   font-family: 'Quintessential';
+   font-weight: 150;
+}
+
+#para1{
+    color: black;
+}
+
+h1{
+color:red;
+}
+
+#name{ 
+    color:blue;
+    font-size: 200%;
+}
+
+li{
+    color:blue;
+}
+#phone{
+    color:blue;
+}
+
+.email{
+    color:blue;
+}
+
+.middle{
+    background-image: url('https://st.depositphotos.com/1203257/3615/i/950/depositphotos_36153037-stock-photo-breckenridge-winter-sunset.jpg?forcejpeg=true');
+
+}
+
+    
+
+
+
+
+

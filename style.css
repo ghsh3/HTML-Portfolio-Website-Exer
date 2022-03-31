@@ -14,10 +14,6 @@
     color: black;
 }
 
-h1{
-color:red;
-}
-
 #name{ 
     color:blue;
     font-size: 200%;
@@ -27,18 +23,20 @@ li{
     color:blue;
 }
 #phone{
-    color:blue;
+    color:red;
 }
 
 .email{
-    color:blue;
+    color:red;
 }
 
 .middle{
     background-image: url('https://st.depositphotos.com/1203257/3615/i/950/depositphotos_36153037-stock-photo-breckenridge-winter-sunset.jpg?forcejpeg=true');
 
 }
-
+h2{
+    color:blue
+}
     
 
 
